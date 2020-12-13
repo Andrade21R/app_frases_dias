@@ -1,4 +1,4 @@
-# frases_do_dia
+# Frases do Dia
 
 Projeto Frases do dia
 
